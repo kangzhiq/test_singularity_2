@@ -10,7 +10,7 @@ RAWR_BASE=/code
 export RAWR_BASE
 
 %runscript
-echo "This is singularity with tag"
+echo "This is singularity with tag？？？"
 exec /bin/bash /code/rawr.sh "$@"  
 
 %post  
